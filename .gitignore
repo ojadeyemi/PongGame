@@ -1,0 +1,20 @@
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package files
+*.jar
+*.war
+*.ear
+
+.vscode/

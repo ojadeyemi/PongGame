@@ -8,7 +8,7 @@ public class PongGame {
 	public static void main(String[] args) {
 		
 		GameFrame frame = new GameFrame();
-		playMusic("C:\\Users\\OJ Adeyemi\\Desktop\\SCHOOL\\YEAR 2\\ADVANCED OOP\\ECLIPSE_FILES\\Pong\\src\\pong\\Soul 4 Real Candy Rain.wav");
+		playMusic("Soul 4 Real Candy Rain.wav");
 
 	}
 	
